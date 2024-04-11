@@ -28,3 +28,8 @@ The Diversity & Inclusion dashboard supports the telecom client's aim to enhance
 ![Screenshot (25)](https://github.com/Tusharwagh16/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Internship/assets/165489732/da6bf0d3-c0b7-45b5-8981-ad814515532a)
 
 ![Screenshot (26)](https://github.com/Tusharwagh16/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Internship/assets/165489732/f6667fc4-ced5-43aa-855f-404b72e57752)
+
+## Certificate
+
+![Screenshot (27)](https://github.com/Tusharwagh16/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Internship/assets/165489732/ac43fd44-2996-4abd-8759-c7e6be336a38)
+
